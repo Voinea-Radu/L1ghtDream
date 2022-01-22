@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l1ghtdream/){:target="\_blank"}){:target="\_blank"}
+<a href="https://www.linkedin.com/in/l1ghtdream/" target="_LightDream" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_L1ghtDream/){:target="\_blank"}
 
 I'm Radu, a Software Engineer who creates a lot of cool backend related stuff, Spigot plugins, APIs, web applications and much more.  
